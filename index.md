@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Ooo Ahhh Blogolicious!
 
-I'm glad you are here. I plan to talk about ...
+What should we talk about?
