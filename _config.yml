@@ -10,4 +10,5 @@ github_username:  erdapa
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
+date: 2019-04-25
 theme: jekyll-theme-minimal
